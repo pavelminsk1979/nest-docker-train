@@ -7,6 +7,6 @@ export class AppService {
   getHello(): string {
     this.count += 1;
     console.log(`приложение отработало ${this.count}!`);
-    return 'Hello World!';
+    return 'Hello World Ха-Ха!';
   }
 }
